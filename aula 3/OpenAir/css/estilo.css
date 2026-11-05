@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(129, 4, 179);
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+}
+
+.direita{
+    text-align: right;
+}
+
+button{
+    width: 120px;/* width é largura */
+    height: 40px;/* height é altura */
+    background-color: aliceblue;
+    font-size: 15px;
+    font-weight:bold;
+    color:darkslateblue;
+    border-radius: 15px;/* border é borda */
+}

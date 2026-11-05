@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+p{
+    color: cornflowerblue;
+}
+
+.pazul{
+    color: darkblue;
+}
+
+#proxo{
+    color: purple;
+}
+
+span{
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+}

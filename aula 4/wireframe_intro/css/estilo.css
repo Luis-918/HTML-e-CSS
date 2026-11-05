@@ -1,0 +1,38 @@
+#container{
+    width: 1200px;
+    height: 1200px;
+    background-color: grey;
+    margin: 0 auto; /*Atributo para centralizar a DIV*/
+}
+
+header{
+    width: 1200px;
+    height: 200px;
+    background-color: darkred;
+}
+
+main{
+    width: 1200px;
+    height: 800px;
+    background-color: darkblue;
+}
+
+section{
+    width: 500px;
+    height: 800px;
+    background-color: cornflowerblue;
+    float: right;
+}
+
+aside{
+    width: 300px;
+    height: 800px;
+    background-color: black;
+    float: left;
+}
+
+footer{
+    width: 1200px;
+    height: 200px;
+    background-color: burlywood;
+}

@@ -1,0 +1,33 @@
+.titulo{
+    color: red;
+    font-size: 52px;
+}
+
+.subtitulo{
+    color: darkblue;
+}
+
+.texto{
+    color: grey;
+}
+
+@media screen and (min-width:600px) and (max-width:1024px) {
+    body{
+        background-color: yellow;
+    }
+
+    .titulo{
+        font-size: 32px;
+    }
+
+}
+
+@media print{
+    body{
+        background-color: black;
+    }
+
+    .subtitulo{
+        display: none;
+    }
+}

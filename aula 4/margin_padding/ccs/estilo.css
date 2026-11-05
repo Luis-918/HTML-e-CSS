@@ -1,0 +1,28 @@
+/* Margin: Espaçamento Externo*/
+/* Padding: Espaçamento Interno*/
+
+.caixa1{
+    width: 270px;
+    height: 280px;
+    background-color: orange;
+    padding-top: 20px;
+    padding-left: 30px;
+    margin-left: 50%;
+    transform: translateX(-50%);/*Faz com que o elemento se desloque do valor, no caso à esquerda.*/
+}
+
+.caixa2{
+    width: 300px;
+    height: 300px;
+    background-color: purple;
+    margin: 30px 0;/*Forma abreviada de colocar os valores tanto para Margin, quanto para Padding. O primeiro valor se aplica ao TOPO e BAIXO, o segundo valor se aplica à esquerda e a direita do elemento.*/
+    float: left;
+}
+
+.caixa3{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    margin: 30px 10px;
+    float: left;
+}
